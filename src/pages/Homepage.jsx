@@ -16,7 +16,7 @@ function Homepage() {
 	const [prevOrder, setPrevOrder] = useState(order);
 	const [prevType, setPrevType] = useState(imageType);
 
-	const apiKey = import.meta.env.VITE_PIXABAY_KKEY;
+	const apiKey = import.meta.env.VITE_PIXABAY_KEY;
 	const apiUrl = "https://pixabay.com/api/";
 
 	useEffect(() => {
