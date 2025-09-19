@@ -32,5 +32,17 @@ This project was a stepping stone to practice:
 - Using React Router for dynamic routing.
 - Fetching data from an external API and rendering it dynamically.
 
+## Areas for Improvement
+
+- Better code structure
+
+- UI design
+
+- Color palettes
+
+- Intuitive searching for photos and videos: right now, selecting an option like “Illustration” in the slider bar only searches that query. It doesn’t act as a type filter, so if you click “Illustration” and then search “dogs,” you’ll get random types of dog images. Need to be made easier to understand and use.
+
+---
+
 It served as a foundation for my **rebuilt Lenscape**, which has fewer features but more structured and maintainable code.
 rebuilt project live demo link: [https://photo-mcb6t8z01-ambitiouscalvins-projects.vercel.app/](https://photo-mcb6t8z01-ambitiouscalvins-projects.vercel.app/)
