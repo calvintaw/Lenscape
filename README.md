@@ -34,13 +34,13 @@ This project was a stepping stone to practice:
 
 ## Areas for Improvement
 
-- Better code structure
+- **Code structure:** Could be more modular and maintainable.
+- **UI design:** Layout and consistency could be improved.
+- **Color palettes:** More cohesive and accessible choices.
+- **Search functionality:** Filters don’t persist across queries, which can be confusing.
 
-- UI design
+*Just noting what could be better—this is the final version.*
 
-- Color palettes
-
-- Intuitive searching for photos and videos: right now, selecting an option like “Illustration” in the slider bar only searches that query. It doesn’t act as a type filter, so if you click “Illustration” and then search “dogs,” you’ll get random types of dog images. Need to be made easier to understand and use.
 
 ---
 
