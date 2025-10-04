@@ -15,7 +15,7 @@ An early image and video discovery web application inspired by platforms like Pe
 - **Search**: Search for images and videos using the Pexels API.
 - **Direct Downloads**: Download media directly from the preview page.
 
-> ⚠️ Note: Some features were experimental and not fully implemented, as this project was built before a six-month break from development. Upon returning, I rebuilt Lenscape with a fresh approach to reinforce learning.
+> ⚠️ Note: Some features were experimental and not fully implemented, as this project was built before a six-month break from development. Upon returning, I rebuilt Lenscape with a fresh mind (I had forgotten everything) to reinforce learning.
 
 ## 🛠️ Tech Stack
 
