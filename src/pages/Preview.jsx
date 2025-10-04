@@ -194,7 +194,7 @@ function Preview() {
 							</div>
 						</div>
 						<div className="flex-row tags-container">
-							<h1>Tags:</h1>
+							<h1 className="text-3xl">Tags:</h1>
 							<br />
 							{alt &&
 								alt.split(",").map((item, index) => (

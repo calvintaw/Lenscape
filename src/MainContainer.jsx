@@ -23,7 +23,7 @@ function MainContent(props) {
 			<section className="main-content-containerer">
 				{!props.error && (
 					<div className="title-container">
-						<h2>Free Stock {props.type === "photo" ? "Photos" : "Videos"}</h2>
+						<h2 className="text-2xl">Free Stock {props.type === "photo" ? "Photos" : "Videos"}</h2>
 						<DropdownSelect
 							query={query}
 							handleSubmit={handleSubmit}

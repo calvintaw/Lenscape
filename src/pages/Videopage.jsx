@@ -1,3 +1,4 @@
+import { MyContext } from "../Context";
 import { MainContent } from "../MainContainer";
 import { Slider } from "../components/slider";
 import "../styles/slider.css";
